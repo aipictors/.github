@@ -1,12 +1,22 @@
-## Hi there 👋
+## Aipictors とは
 
-<!--
+AipictorsとはAIイラスト、コンテンツ投稿SNSです。
+https://www.aipictors.com
 
-**Here are some ideas to get you started:**
+## Aipictorsの目的
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+AIコンテンツを通して人々の創作、交流の場を創ることが目的です。
+
+## 本Githubの目的
+
+Aipictorsに関連するプロジェクトに関連する事柄をまとめています。
+https://github.com/orgs/aipictors/repositories
+
+AipictorsはOSS化しております。
+下記にてAipictors（Next.js版）を構築進めております。
+どなたでも参加を歓迎いたします！
+https://github.com/aipictors/aipictors
+
+Aipictorsに関するアイディアは下記より募集しております
+お気軽に立ち上げていただけますと幸いです！
+https://github.com/orgs/aipictors/discussions
