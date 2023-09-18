@@ -1,3 +1,5 @@
+![F6NtFTVbUAAaQgG](https://github.com/aipictors/.github/assets/124619691/69eed17d-3630-4962-9c31-6af79fcff838)
+
 ## Aipictors とは
 
 AipictorsとはAIイラスト、コンテンツ投稿SNSです。
