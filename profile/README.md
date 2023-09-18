@@ -1,4 +1,4 @@
-![F6NtFTVbUAAaQgG](https://github.com/aipictors/.github/assets/124619691/69eed17d-3630-4962-9c31-6af79fcff838)
+![aipictors123](https://github.com/aipictors/.github/assets/124619691/448ccf32-21ab-43ac-8006-b1c3c0fb841c)
 
 ## Aipictors とは
 
