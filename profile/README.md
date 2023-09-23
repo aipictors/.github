@@ -1,24 +1,25 @@
 ![aipictors123](https://github.com/aipictors/.github/assets/124619691/5216fc19-f72a-43e1-99d9-5bb417d619f9)
 
-## Aipictors とは
-
-AipictorsとはAIイラスト、コンテンツ投稿SNSです。
+Aipictorsは、AIイラスト、コンテンツ投稿SNSです。
 https://www.aipictors.com
 
-## Aipictorsの目的
+AIコンテンツを通して、人々の創作、交流の場を創ることを目的としています。
 
-AIコンテンツを通して人々の創作、交流の場を創ることが目的です。
+## コントリビューター募集中！
 
-## 本Githubの目的
+Aipictorsは、オープンソースで開発を進めています。
 
-Aipictorsに関連するプロジェクトに関連する事柄をまとめています。
-https://github.com/orgs/aipictors/repositories
+現在、Aipictors（Next.js版）の開発を進めております。どなたでも参加を歓迎いたします！
 
-AipictorsはOSS化しております。
-下記にてAipictors（Next.js版）を構築進めております。
-どなたでも参加を歓迎いたします！
-https://github.com/aipictors/aipictors
+→ [aipictors/aipictors](https://github.com/aipictors/aipictors)
 
-Aipictorsに関するアイディアは下記より募集しております
-お気軽に立ち上げていただけますと幸いです！
-https://github.com/orgs/aipictors/discussions
+本製品に関するアイデアはこちらより募集しております。お気軽に立ち上げていただけますと幸いです！
+
+→ [ディスカッション](https://github.com/orgs/aipictors/discussions)
+
+## その他
+
+こちらでも活動しています。
+
+- [X（Twitter）](https://twitter.com/aipictors)
+- [Discord](https://discord.gg/WPJFSbUNwt)
