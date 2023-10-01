@@ -1,5 +1,3 @@
-![aipictors_logo_0-_1_-_1_](https://github.com/aipictors/.github/assets/124619691/79907d08-7ac5-4386-be8d-6ee5af6265b6)
-
 Aipictorsは、AIコンテンツ投稿SNSです。
 
 * Aipictorsのホームページ
