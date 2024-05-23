@@ -49,6 +49,12 @@ Aipictorsは、オープンソースで開発を進めています
 
 → [ディスカッション](https://github.com/orgs/aipictors/discussions)
 
+## 開発で気を付けていること
+
+開発で気を付けていることは下記の記事にまとめています。
+
+- [開発で気を付けていること](https://zenn.dev/aipics/articles/a3962af1986502)
+
 ## コミュニティ
 
 - [X（Twitter）](https://twitter.com/aipictors)
